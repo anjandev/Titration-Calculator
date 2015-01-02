@@ -1,5 +1,5 @@
 # Titration calculator. By Anjan Momi. 
-#{Calculates the pH at various stages of the titration of a strong acid against a strong base.}
+# {Calculates the pH at various stages of the titration of a strong acid against a strong base.}
 # Copyright (C) {2014}  {Anjandev Momi}
 # Contact me at anjan@momi.ca
 # Use http://www.codeskulptor.org/ to run this program.
